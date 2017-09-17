@@ -1,5 +1,5 @@
 
-# Análisis/Síntesis utilizando el modelo de Sinusoides + Residuo FFT y multiresolución en 3 bandas de frecuencia
+## Análisis/Síntesis utilizando el modelo de Sinusoides + Residuo FFT y multiresolución en 3 bandas de frecuencia
 
 
 ```python
