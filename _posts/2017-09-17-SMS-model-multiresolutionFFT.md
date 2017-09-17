@@ -224,7 +224,7 @@ plt.show()
 ```
 
 
-![png](SMS%20model%20multiresolution%20FFT_files/SMS%20model%20multiresolution%20FFT_10_0.png)
+![png](SMS-model-multiresolutionFFT_files/SMS-model-multiresolutionFFT_10_0.png)
 
 
 
@@ -258,7 +258,7 @@ plt.show()
 ```
 
 
-![png](SMS%20model%20multiresolution%20FFT_files/SMS%20model%20multiresolution%20FFT_11_0.png)
+![png](SMS-model-multiresolutionFFT_files/SMS-model-multiresolutionFFT_11_0.png)
 
 
 
