@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Free Software. Experimental sound. Audio Signal Processing. IT. Cloud. Cocktails. API-Culture.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hordiales@gmail.com](mailto:hordiales@gmail.com)
